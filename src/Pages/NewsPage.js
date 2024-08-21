@@ -56,6 +56,14 @@ const NewsPage = () => {
           />
           <NewsArticle
             Logo="/avater-02@2x.png"
+            Heading="Pilot Kickoffs Begin!"
+            Overview="IIAM set to begin pilots with Johns Hopkins, UCSF, and Mass General Brigham."
+            Date="December 18, 2023"
+            Content="With all founders now transitioning into full-time positions at IIAM, we hereby begin IIAM's collaboration with Johns Hopkins, UCSF, and Mass General Brigham. The pilots are focused on testing the machine learning model for head and neck cancer surgery recommendations. The goal is to demonstrate the model’s accuracy and efficiency in processing cancer referrals and improving patient outcomes. The pilots are expected to last 6 months and will involve a large number of patients from diverse backgrounds.
+            "
+          />
+          <NewsArticle
+            Logo="/avater-02@2x.png"
             Heading="Global Cancer Conference"
             Overview="Max Jiam, co-CTO of IIAM, presented their findings on a machine learning model for head and neck cancer surgery at the AHNS International Conference. The event was attended by leading physicians worldwide."
             Date="July 12, 2023"
@@ -77,14 +85,6 @@ const NewsPage = () => {
             Date="Nov 2, 2021"
             LMLink="https://ohns.ucsf.edu/news/ohns-resident-and-team-win-50000-grant-their-healthcare-invention"
             Content="Dr. Nicole Jiam, CEO, is part of a team that has been awarded the National Science Foundation (NSF) Innovation Corporation Research Grant. The award consists of $50,000 and an intensive seven-week program to help the team translate the clinically meaningful digital health product into the marketplace.
-            "
-          />
-          <NewsArticle
-            Logo="/avater-02@2x.png"
-            Heading="LaunchPad Fellowship"
-            Overview="The IIAM team was selected for the Blackstone LaunchPad Fellowship, focusing on entrepreneurial skills for building successful businesses. This program supports innovative student ventures."
-            Date="May 20, 2021"
-            Content="The IIAM team was selected as a Blackstone Launchpad Fellow - a signature program of the Blackstone Charitable Foundation and TechStarts. This 8 week program selects the nation’s most promising students with high entrepreneurial skills and potential and teaches them the skills needed to build a successful business. All fellows are given a non-dilutive award to jump-start their ventures. Fellows are also connected with like-minded builders and attend workshops on core entrepreneurial fundamentals such as  ideation, design thinking, research, data analysis, customer discovery, business models, networking and more.
             "
           />
         </section>
