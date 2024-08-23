@@ -3,7 +3,7 @@ import { useState, useCallback, useEffect } from "react";
 import NewsPopUp from "./NewsPopUp";
 import PortalPopup from "./PortalPopup";
 
-const NewsArticle = ({ Logo, Heading, Overview, Date, LMLink, Content }) => {
+const NewsArticle = ({ Logo, Heading, Overview, LMLink, Content }) => {
   const [isNewsPopUpPopupOpen, setNewsPopUpPopupOpen] = useState(false);
   useEffect(() => {
     const scrollAnimElements = document.querySelectorAll(
@@ -68,9 +68,6 @@ const NewsArticle = ({ Logo, Heading, Overview, Date, LMLink, Content }) => {
         </div>
         <div className="self-stretch flex flex-row items-start justify-start pt-2.5 pb-5 pr-2.5 pl-5 text-lg">
           <div className="w-[194px] flex flex-col items-start justify-start gap-[4px]">
-            <b className="w-[137px] relative tracking-[-0.02em] inline-block">
-              {Date}
-            </b>
             <a
               className="cursor-pointer [border:none] p-0 bg-[transparent] self-stretch relative text-lg tracking-[-0.02em] leading-[30px] font-head text-gray-100 text-left inline-block whitespace-nowrap"
               onClick={onLearnMoreClick}>
