@@ -59,7 +59,7 @@ const NewsPage = () => {
             Heading="Pilot Kickoffs Begin!"
             Overview="IIAM set to begin pilots with Johns Hopkins, UCSF, and Mass General Brigham."
             Date="December 18, 2023"
-            Content="With all founders now transitioning into full-time positions at IIAM, we hereby begin IIAM's collaboration with Johns Hopkins, UCSF, and Mass General Brigham. The pilots are focused on testing the machine learning model for head and neck cancer surgery recommendations. The goal is to demonstrate the model’s accuracy and efficiency in processing cancer referrals and improving patient outcomes. The pilots are expected to last 6 months and will involve a large number of patients from diverse backgrounds.
+            Content="With all founders now transitioning into full-time positions at IIAM, we hereby begin IIAM's collaboration with Johns Hopkins, UCSF, and Mass General Brigham. The pilots are focused on testing the machine learning model for head and neck cancer surgery recommendations. The goal is to demonstrate the model’s accuracy and efficiency in processing cancer referrals and improving patient outcomes. The pilots are expected to last 6 months and will involve a large number of patients from diverse backgrounds. We expect to convert these pilots into long-term contracts with these institutions.
             "
           />
           <NewsArticle
@@ -75,7 +75,7 @@ const NewsPage = () => {
             Heading="NSF Grant Achievement"
             Overview="IIAM was awarded an NSF SBIR Phase I grant for developing predictive analytics and machine learning modeling for cancer referrals. This grant facilitates technology advancement for faster patient treatment."
             Date="Aug 10, 2023"
-            Content="IIAM Health was just awarded a National Science Foundation (NSF) SBIR Phase I award to develop predictive analytics and machine learning modeling to process cancer referrals. This non-dilutive grant awards $275,000 of funding to start-ups with innovative solutions to the world’s most pressing needs. Over the next year, IIAM will be focused on de-risking the technological solution to address triaging cancer referrals for tertiary healthcare centers.
+            Content="IIAM Health was just awarded a National Science Foundation (NSF) SBIR Phase I award to develop predictive analytics and machine learning modeling to process cancer referrals. This non-dilutive grant awards $275,000 of funding to start-ups with innovative solutions to the world’s most pressing needs. Over the next year, IIAM will be focused on de-risking the technological solution to address triaging cancer referrals for tertiary healthcare centers. This money will be used to incorporate the company, and begin developing the technology to a point where it can be tested in a clinical setting.
             "
           />
           <NewsArticle
