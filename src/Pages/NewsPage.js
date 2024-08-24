@@ -67,14 +67,6 @@ const NewsPage = () => {
             Content="IIAM Health was just awarded a National Science Foundation (NSF) SBIR Phase I award to develop predictive analytics and machine learning modeling to process cancer referrals. This non-dilutive grant awards $275,000 of funding to start-ups with innovative solutions to the world’s most pressing needs. Over the next year, IIAM will be focused on de-risking the technological solution to address triaging cancer referrals for tertiary healthcare centers. This money will be used to incorporate the company, and begin developing the technology to a point where it can be tested in a clinical setting.
             "
           />
-          <NewsArticle
-            Logo="/avater-02@2x.png"
-            Heading="NSF Discovery Grant"
-            Overview="Dr. Nicole Jiam and her team won an NSF Innovation Corporation Research Grant for translating digital health products into the marketplace. The program includes a $50,000 award."
-            LMLink="https://ohns.ucsf.edu/news/ohns-resident-and-team-win-50000-grant-their-healthcare-invention"
-            Content="Dr. Nicole Jiam, CEO, is part of a team that has been awarded the National Science Foundation (NSF) Innovation Corporation Research Grant. The award consists of $50,000 and an intensive seven-week program to help the team translate the clinically meaningful digital health product into the marketplace.
-            "
-          />
         </section>
         {/* <button
           className="cursor-pointer [border:none] py-[9px] px-[29px] bg-blue w-[218px] rounded-4xl flex flex-row items-center justify-start box-border gap-[10px] whitespace-nowrap hover:bg-slategray active:animate-[1s_ease_0s_infinite_normal_none_shadow-drop-bottom] active:opacity-[1]"
